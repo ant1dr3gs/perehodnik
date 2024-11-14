@@ -1,2 +1,2 @@
 # perehodnik
-123
+local
